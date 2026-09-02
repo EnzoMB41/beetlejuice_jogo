@@ -15,7 +15,7 @@ Para conseguir escapar, o jogador deverá explorar a casa, encontrar os objetos 
 
 ## Sumário da Wiki
 
-1. [Conceito do Jogo](wiki/01-conceito.md)
+1. [Conceito do Jogo](https://github.com/EnzoMB41/beetlejuice_jogo.wiki.git)
 2. [Contextualização da História](wiki/02-historia.md)
 3. [Descrição das Cenas](wiki/03-cenas.md)
 4. [Esboço do Mapa](wiki/04-mapa.md)
