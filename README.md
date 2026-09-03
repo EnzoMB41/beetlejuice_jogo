@@ -7,11 +7,8 @@
 
 ## Identificação do tema
 
-Jogo inspirado no filme Beetlejuice, utilizando elementos de terror, exploração e fuga.
+Jogo vai ser inspirado no filme Beetlejuice de 1998 , utilizando elementos de terror, exploração e fuga.
 
-O jogador assume o papel de uma pessoa interessada em comprar uma casa. Porém, ao entrar no local, descobre que a casa é assombrada por Beetlejuice e acaba preso dentro dela.
-
-Para conseguir escapar, o jogador deverá explorar a casa, encontrar os objetos necessários e evitar ser capturado pelo fantasma.
 
 ## Sumário da Wiki
 
