@@ -1,0 +1,4 @@
+repository "beetlejuice_jogo/beetlejuice_jogo@4673965408049@cloud"
+  path "/"
+    br "/main"
+    co "/main"

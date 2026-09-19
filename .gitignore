@@ -1,0 +1,64 @@
+# =============================
+# .gitignore para projetos Unity
+# =============================
+
+# Pastas geradas automaticamente pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Pastas geradas por versões antigas do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Arquivos de projeto de IDEs (Visual Studio, Rider, VS Code)
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos de build específicos de plataforma
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Arquivos temporários do Unity Crash Handler
+sysinfo.txt
+
+# Arquivos gerados pelo Unity Cloud Build / Cache Server local
+/[Aa]ssets/[Aa]ssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Metadados do OS
+.DS_Store
+Thumbs.db
+
+# Arquivos de Crashlytics
+crashlytics-build.properties
+
+# Arquivos de pacote local (opcional, dependendo do seu fluxo)
+/[Pp]ackages/com.unity.*[Ll]ocal*/
