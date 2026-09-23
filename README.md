@@ -10,7 +10,7 @@
 Jogo vai ser inspirado no filme Beetlejuice de 1998 , utilizando elementos de terror, exploração e fuga.
 
 
-## Sumário da Wiki
+## Sumário da Wiki(atualizado)
 
 1. [Conceito do Jogo](https://github.com/EnzoMB41/beetlejuice_jogo/wiki)
 2. [Contextualização da História](https://github.com/EnzoMB41/beetlejuice_jogo/wiki/2.-Contextualiza%C3%A7%C3%A3o-da-Hist%C3%B3ria)
